@@ -24,5 +24,5 @@ different types of plots using **Pandas** and **Matplotlib**.
 ## 🚀 How to Run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/data-visualization-project.git
+   git clone https://github.com/divyakurrey-pixel/data-visualization-project.git
    cd data-visualization-project
